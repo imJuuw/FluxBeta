@@ -1,3 +1,4 @@
+![Tableau de bord FLUX](./02-tableau-de-bord.webp)
 # ⚡ FLUX — GMAO Next-Gen (Maintenance, Chantiers & Qualité)
 
 > **FLUX** est une solution de GMAO (Gestion de Maintenance Assistée par Ordinateur) moderne, réactive et autonome, conçue pour piloter la maintenance industrielle, le suivi de chantiers et la qualité sur le terrain comme en atelier.
