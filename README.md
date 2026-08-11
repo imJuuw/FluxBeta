@@ -33,7 +33,7 @@
 
 ## 📥 Installation & Lancement
 
-1 Bientôt disponible 📆
+ Bientôt disponible 📆
 ---
 
 *Développé avec passion pour simplifier le quotidien des techniciens et chefs de chantier.*
